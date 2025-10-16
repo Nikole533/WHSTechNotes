@@ -72,3 +72,10 @@ Your Judson ISD chats aren’t used to improve our models. Gemini can make mista
 
 
 #9/22,2025 PODRIA SER BUENA IDEA YA QUE ABRE NUEVOS INGRESOS Y ESPECIALMENTE PARA LOS QUE TIENEN DIFICULTADES COMO CAMINAR, SI NO QUE TAMBIEN OFRECE OFRECE UNA NUEVA PLATAFORMA PARA UN ENTORNO MAS FACIL EN LO DIGITAL PODRIA AYUDAN COMO CON LA EMPRESA EN LA EXTENCION DE EL LUGAR DE TRABAJO
+
+
+
+
+# october 14 of 2025
+
+https://www.canva.com/design/DAG15MupCEs/ptf4KZfiYUSoJQFCifbgdw/edit?utm_content=DAG15MupCEs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
