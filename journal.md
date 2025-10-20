@@ -79,3 +79,17 @@ Your Judson ISD chats aren’t used to improve our models. Gemini can make mista
 # october 14 of 2025
 
 https://www.canva.com/design/DAG15MupCEs/ptf4KZfiYUSoJQFCifbgdw/edit?utm_content=DAG15MupCEs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+
+# october 22
+
+ 
+-------- |----------------------------------|
+name     |    class      |    seat          |
+-------- |----------------------------------|
+franklin |  2           |        91A        |
+-------- | -------------------------------- | 
+hardeep  |  3           |        61F        |
+-------- | ---------------------------------| 
+marla    |  1           |         35B       |                                                                                                                                                                                                  |
+-------- |----------------------------------|
