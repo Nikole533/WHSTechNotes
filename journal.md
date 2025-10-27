@@ -88,4 +88,21 @@ name     |    class      |    seat          |
 -------- |--------------| ------------------|
 franklin |  2           |        91A        |
 hardeep  |  3           |        61F        |
-marla    |  1           |         35B       |                                                                                                                                                                                                  |
+marla    |  1           |         35B       |                                                                                                                                               
+
+
+# october 27
+**Diary Entry: Technology and Disaster Resilience**
+
+Technology plays an essential role in every phase of a natural disaster, from preparation to recovery. Before an event, **early warning systems** and **Artificial Intelligence (AI)**, like that used in platforms such as Google Earth or advanced weather models, are crucial; these analyze satellite and sensor data to predict a hurricane's path or the risk of a wildfire with greater lead time and accuracy. During the disaster, **satellite communications** and **mobile phone networks** (cellular), though often stressed, allow emergency services to coordinate rescue efforts and enable people to send simple "safe" text messages, while **emergency apps** provide real-time evacuation maps and shelter locations. Afterward, the use of **drones** and **satellite image analysis** helps quickly assess damage in remote or dangerous areas to direct humanitarian aid and reconstruction. These tools make a monumental difference: an extra hours' notice for a hurricane can mean the safe evacuation of thousands of people, and constant communication during a flood can save lives by informing those who are trapped about escape routes or the location of rescuers.
+
+If I could invent a new piece of technology, I would create a **"Post-Disaster Autonomous Mesh Network System" (PD-AMNS)**, specifically designed for environments where communication and power infrastructure have collapsed, such as after an earthquake or a major hurricane. This system would consist of small, modular communication devices that run on solar and kinetic (movement) energy and are deployed automatically (perhaps by drones or airdropped) over the affected area. Each module would create a connection point and, by linking with its neighbors, establish a decentralized **mesh network**, allowing any mobile phone or radio device in the area to send basic text messages and location data to rescue teams without relying on traditional cell towers or the internet. This would be fundamental because infrastructure failure is a recurring problem that delays assistance; the PD-AMNS would guarantee a basic communication channel for survivors to report their status and location, and could even transmit health signals from **wearable devices** to medical teams, accelerating the location of the injured and saving countless lives during the critical first few hours.N
+
+
+|     name   | main Dish   | Dessert|
+|                                   |
+| fiona          2            1     |
+| tobias         3            3     |                         
+| leanne         1            2     |                        
+|                                   |                           
+
