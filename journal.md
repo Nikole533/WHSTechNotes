@@ -99,10 +99,10 @@ Technology plays an essential role in every phase of a natural disaster, from pr
 If I could invent a new piece of technology, I would create a **"Post-Disaster Autonomous Mesh Network System" (PD-AMNS)**, specifically designed for environments where communication and power infrastructure have collapsed, such as after an earthquake or a major hurricane. This system would consist of small, modular communication devices that run on solar and kinetic (movement) energy and are deployed automatically (perhaps by drones or airdropped) over the affected area. Each module would create a connection point and, by linking with its neighbors, establish a decentralized **mesh network**, allowing any mobile phone or radio device in the area to send basic text messages and location data to rescue teams without relying on traditional cell towers or the internet. This would be fundamental because infrastructure failure is a recurring problem that delays assistance; the PD-AMNS would guarantee a basic communication channel for survivors to report their status and location, and could even transmit health signals from **wearable devices** to medical teams, accelerating the location of the injured and saving countless lives during the critical first few hours.N
 
 
-|     name   | main Dish   | Dessert|
-|-----------------------------------|
-| fiona          2            1     |
-| tobias         3            3     |                         
-| leanne         1            2     |                        
-|                                   |                           
+|     name  | main Dish |    Dessert|
+|-----------|-----------|-----------|
+| fiona     |    2      |     1     |
+| tobias    |    3      |     3     |                         
+| leanne    |    1      |     2     |                        
+                      
 
