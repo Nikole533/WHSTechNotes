@@ -100,7 +100,7 @@ If I could invent a new piece of technology, I would create a **"Post-Disaster A
 
 
 |     name   | main Dish   | Dessert|
-|                                   |
+|-----------------------------------|
 | fiona          2            1     |
 | tobias         3            3     |                         
 | leanne         1            2     |                        
