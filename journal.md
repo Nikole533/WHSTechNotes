@@ -1,10 +1,11 @@
-# 8/27/2025  Today, I created my first GitHub account and repository. I'm excited to start using GitHub for my projects!
+# August 27, 2025
+Today, I created my first GitHub account and repository. I'm excited to start using GitHub for my projects!
 1. Formulario de nombres de usuario de Informática
 Complete el formulario en jisd.link/usernames
 2. Configuración del diario de Github
 Configure su diario de clase siguiendo las instrucciones en jisd.link/journal.
 
-# 2 de septiembre de 2025
+# September 2, 2025
 
 Claim: The new regulation requiring cell phones to be put away during the school day is crucial for restoring focus to the learning environment.
 
@@ -12,7 +13,7 @@ Evidence: We've seen a noticeable decrease in classroom disruptions; before, not
 
 Reasoning: These outcomes prove that, by removing the primary digital distraction, the law allows the teaching and learning environment to become more productive and cohesive. The benefit outweighs the initial challenge of adaptation, as the mental presence of students and teachers is now the priority.
 
-# 8 de septiembe de 2025
+# September 8, 2025
 
 Claim: Computer Science (CS) is an essential foundational skill that fundamentally reshapes every major industry and is critical for future career success, regardless of the specific field.
 
@@ -22,7 +23,7 @@ Reasoning: The consensus among leaders from diverse professional backgrounds ind
 
 
 
-# 16 de septiembre de 2025
+# September 16, 2025
 
 Claim: We will develop an adaptive AI tutor, MentorIA, to provide personalized, real-time curriculum and feedback for middle and high school students in STEM (Science, Technology, Engineering, and Mathematics) subjects.
 
@@ -30,7 +31,7 @@ Evidence: The project meets the requirements by focusing on education and the re
 
 Reasoning: MentorIA would level the playing field by providing high-quality, equitable, and low-cost educational support directly at home or in school. By adapting individually, it will help people overcome the frustration of one-size-fits-all instruction and significantly improve academic outcomes, promoting long-term success in vital careers.
 
-# 22 de septiembre de 2025
+# September 22, 2025
 
 Statement: It's an Excellent Idea
 Working in a virtual store for real money is an excellent idea for the professional future. It represents one of the most promising career paths because it aligns perfectly with the growing digitalization of consumer behavior and offers high scalability and flexibility.
@@ -49,8 +50,7 @@ This evidence demonstrates that the e-commerce market is robust and unstoppable.
 Gaining experience in managing a virtual store (digital marketing, data analysis, e-commerce logistics) means mastering the skills that will be essential for almost any business in the next decade. It's a key investment in your professional future.
 
 
-# october 14 of 2025
-
+# October 14, 2025
 https://www.canva.com/design/DAG15MupCEs/ptf4KZfiYUSoJQFCifbgdw/edit?utm_content=DAG15MupCEs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 
@@ -64,7 +64,7 @@ hardeep  |  3           |        61F        |
 marla    |  1           |         35B       |                                                                                                                                               
 
 
-# october 27
+# October 27, 2025
 **Diary Entry: Technology and Disaster Resilience**
 
 Technology plays an essential role in every phase of a natural disaster, from preparation to recovery. Before an event, **early warning systems** and **Artificial Intelligence (AI)**, like that used in platforms such as Google Earth or advanced weather models, are crucial; these analyze satellite and sensor data to predict a hurricane's path or the risk of a wildfire with greater lead time and accuracy. During the disaster, **satellite communications** and **mobile phone networks** (cellular), though often stressed, allow emergency services to coordinate rescue efforts and enable people to send simple "safe" text messages, while **emergency apps** provide real-time evacuation maps and shelter locations. Afterward, the use of **drones** and **satellite image analysis** helps quickly assess damage in remote or dangerous areas to direct humanitarian aid and reconstruction. These tools make a monumental difference: an extra hours' notice for a hurricane can mean the safe evacuation of thousands of people, and constant communication during a flood can save lives by informing those who are trapped about escape routes or the location of rescuers.
