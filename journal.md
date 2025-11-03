@@ -49,33 +49,6 @@ This evidence demonstrates that the e-commerce market is robust and unstoppable.
 Gaining experience in managing a virtual store (digital marketing, data analysis, e-commerce logistics) means mastering the skills that will be essential for almost any business in the next decade. It's a key investment in your professional future.
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Tools
-
-Your Judson ISD chats aren’t used to improve our models. Gemini can make mistakes,
-
-
-
-
-#9/22,2025 PODRIA SER BUENA IDEA YA QUE ABRE NUEVOS INGRESOS Y ESPECIALMENTE PARA LOS QUE TIENEN DIFICULTADES COMO CAMINAR, SI NO QUE TAMBIEN OFRECE OFRECE UNA NUEVA PLATAFORMA PARA UN ENTORNO MAS FACIL EN LO DIGITAL PODRIA AYUDAN COMO CON LA EMPRESA EN LA EXTENCION DE EL LUGAR DE TRABAJO
-
-
-
-
 # october 14 of 2025
 
 https://www.canva.com/design/DAG15MupCEs/ptf4KZfiYUSoJQFCifbgdw/edit?utm_content=DAG15MupCEs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
@@ -104,5 +77,25 @@ If I could invent a new piece of technology, I would create a **"Post-Disaster A
 | fiona     |    2      |     1     |
 | tobias    |    3      |     3     |                         
 | leanne    |    1      |     2     |                        
+
+                      \
+
+
+# November 3, 2025
+
+ Technology and Food Access: Journal Reflection
+
+The critical problem is the **interruption of SNAP program funding**, a vital safety net that allows millions of low-income families to purchase essential food each month. If the funds run out, this would become a huge problem as many people, especially children, the elderly, and people with disabilities who rely on this aid, would face severe **food insecurity** and the inability to buy healthy food.
+
+Technology could mitigate this crisis through the development of applications or websites that serve as instant **resource hubs**. These tools could use geolocation to connect people with the nearest and most available food bank, community kitchen, or food assistance program, and even show real.
+-time inventories and operating hours.
+
+However, significant challenges exist, such as the **digital divide**, where a lack of reliable internet access or smartphones prevents the neediest from using these tech-based solutions. Furthermore, concerns about the privacy of personal and location data might deter some users.
+
+If I were the designer, my tool would be called **"FoodFinder"**. It would be a mobile app and a website with a simple interface that doesn't require much data, and its main function would be to map and provide directions to free or low-cost food resources, including the time of their next distribution and what documents are needed for access
+-
+
+
+
                       
 
