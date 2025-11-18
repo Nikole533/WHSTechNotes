@@ -99,5 +99,11 @@ If I were the designer, my tool would be called **"FoodFinder"**. It would be a 
 
 technology has fundamentally changed the way we connect during the holidays, but I believe this change ultimately makes the experience worse. Claim: Although tools like video calls facilitate connection with distant family, their overall impact is negative because of how they erode the quality of presence in physical gatherings. Evidence: While services allow a virtual view of gift openings or dinners, the new devices themselves—and the associated push notifications—frequently pull attention away from those physically present at the table. This distraction replaces the depth of actual conversation with the shallow performance of sharing a moment online. Reasoning: I believe developers hold a strong responsibility to ensure holiday tech respects both privacy and family time. This responsibility exists because the design goal of many apps is maximum engagement, which fundamentally conflicts with the human need for focused, undistracted intimacy that the holidays demand. Therefore, features that default to low-distraction and minimize data harvesting during holiday periods should be standard.
 
+
+# november 17, 2025
+Are you looking forward to Thanksgiving break?
+
+Yes, that way I spend more time with my family
+
                       
 
