@@ -103,7 +103,11 @@ technology has fundamentally changed the way we connect during the holidays, but
 # november 17, 2025
 Are you looking forward to Thanksgiving break?
 
-Yes, that way I spend more time with my family                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       # December 1, 2025
+Yes, that way I spend more time with my family                                                                                                                                                                                                                                                                                                                                                                                                                                                         
+
+
+
+#December 1, 2025
 
 A real job that uses drones is a drone delivery operator, who controls drones to deliver packages. They use basic programming because the software helps plan routes and fly safely. In Texas, the salary for this job is around $20–$25 per hour based on common online searches. Usually, they need the FAA Part 107 license and some tech experience. I would like this job because it’s modern and drones are cool to use.
 
