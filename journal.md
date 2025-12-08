@@ -111,5 +111,8 @@ Yes, that way I spend more time with my family
 
 A real job that uses drones is a drone delivery operator, who controls drones to deliver packages. They use basic programming because the software helps plan routes and fly safely. In Texas, the salary for this job is around $20–$25 per hour based on common online searches. Usually, they need the FAA Part 107 license and some tech experience. I would like this job because it’s modern and drones are cool to use.
 
+# December 8,2025
+A self-driving car might fail to recognize a stopped school bus with its stop arm out because its cameras or sensors can struggle with lighting, reflections, or obstructed views that make the stop sign or flashing red lights hard to interpret. The AI might also not have enough training examples of school-bus scenarios in different conditions, causing it to misclassify what it’s seeing. Sometimes the system focuses on common traffic patterns and doesn’t treat a school bus as a special high-priority hazard.
+If I were a programmer on the Waymo team, I would add a priority override rule: any possible detection of a school bus with flashing red lights should force an immediate stop, even if the system is uncertain. I’d also include a specialized detection model or redundant sensor logic dedicated to identifying school buses and their stop arms. Another improvement would be an emergency-stop fallback, where the car stops automatically whenever sensor data is unclear but suggests even a small chance of a school-bus stop event. Finally, I’d expand simulation and real-world testing to make sure the AI handles rare but critical scenarios consistently and safely.
                       
 
