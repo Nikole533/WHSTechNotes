@@ -123,3 +123,10 @@ that way i spend more rime whith my family
 # january 6,2026
 
 i used technology to call my family and friends who lives far away from me, i also took the opportunity to use applications to watch movies
+
+
+# january 12, 2026
+
+
+Autcraft was created to solve the problem of bullying, harassment, and exclusion that many players, especially neurodivergent players, experienced in online games. It provides a safe and welcoming Minecraft server where autistic children and their families can feel comfortable being themselves. Unmoderated online spaces can lead to harm such as cyberbullying, hate speech, and emotional distress. Autcraft’s clear rules, active moderation, and strong community guidelines help protect users and create a positive experience. Developers have a responsibility to design safe spaces because users should not have to protect themselves from harm on their own. If developers ignore safety and inclusion, online spaces can become toxic and drive people away instead of bringing them together.
+
