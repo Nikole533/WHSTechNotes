@@ -115,12 +115,12 @@ A real job that uses drones is a drone delivery operator, who controls drones to
 A self-driving car might fail to recognize a stopped school bus with its stop arm out because its cameras or sensors can struggle with lighting, reflections, or obstructed views that make the stop sign or flashing red lights hard to interpret. The AI might also not have enough training examples of school-bus scenarios in different conditions, causing it to misclassify what it’s seeing. Sometimes the system focuses on common traffic patterns and doesn’t treat a school bus as a special high-priority hazard.
 If I were a programmer on the Waymo team, I would add a priority override rule: any possible detection of a school bus with flashing red lights should force an immediate stop, even if the system is uncertain. I’d also include a specialized detection model or redundant sensor logic dedicated to identifying school buses and their stop arms. Another improvement would be an emergency-stop fallback, where the car stops automatically whenever sensor data is unclear but suggests even a small chance of a school-bus stop event. Finally, I’d expand simulation and real-world testing to make sure the AI handles rare but critical scenarios consistently and safely.
                       
-# December 15,2025
+# December 15, 2025
 What are your plans for the Winter Break?
 
 that way i spend more rime whith my family
 
-# january 6,2026
+# january 6, 2026
 
 i used technology to call my family and friends who lives far away from me, i also took the opportunity to use applications to watch movies
 
@@ -130,3 +130,6 @@ i used technology to call my family and friends who lives far away from me, i al
 
 Autcraft was created to solve the problem of bullying, harassment, and exclusion that many players, especially neurodivergent players, experienced in online games. It provides a safe and welcoming Minecraft server where autistic children and their families can feel comfortable being themselves. Unmoderated online spaces can lead to harm such as cyberbullying, hate speech, and emotional distress. Autcraft’s clear rules, active moderation, and strong community guidelines help protect users and create a positive experience. Developers have a responsibility to design safe spaces because users should not have to protect themselves from harm on their own. If developers ignore safety and inclusion, online spaces can become toxic and drive people away instead of bringing them together.
 
+
+ # January 20, 2026
+One way technology can help create fairness is by giving people a platform to share their voices and experiences. This matters because many people who are treated unfairly might not be heard without technology. An example of this could be students using social media or online petitions to speak out about bullying or unfair school rules. Technology also allows people to learn about injustice through videos, news, and educational websites. This helps because when more people are informed, they are more likely to take action and support change. Overall, technology helps create a more fair and just society by spreading awareness and encouraging people to stand up for themselves and others.
