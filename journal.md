@@ -133,3 +133,9 @@ Autcraft was created to solve the problem of bullying, harassment, and exclusion
 
  # January 20, 2026
 One way technology can help create fairness is by giving people a platform to share their voices and experiences. This matters because many people who are treated unfairly might not be heard without technology. An example of this could be students using social media or online petitions to speak out about bullying or unfair school rules. Technology also allows people to learn about injustice through videos, news, and educational websites. This helps because when more people are informed, they are more likely to take action and support change. Overall, technology helps create a more fair and just society by spreading awareness and encouraging people to stand up for themselves and others.
+
+# january 29, 2026
+
+The test I took this week was the MAP test, and I feel pretty good about my performance because I stayed focused and tried my best on every question. One thing that went well was the reading section because I understood most of the passages. However, I found some of the math questions challenging, especially the ones that required multiple steps. I think test prep would help me do better next time because practicing more and reviewing strategies would help me feel more confident and improve my score.
+
+ 
