@@ -138,4 +138,14 @@ One way technology can help create fairness is by giving people a platform to sh
 
 The test I took this week was the MAP test, and I feel pretty good about my performance because I stayed focused and tried my best on every question. One thing that went well was the reading section because I understood most of the passages. However, I found some of the math questions challenging, especially the ones that required multiple steps. I think test prep would help me do better next time because practicing more and reviewing strategies would help me feel more confident and improve my score.
 
+# February 2, 2026
+
+
+
+Personal hygiene and self-care are important in shared environments because they help keep everyone healthy and comfortable. When people take care of themselves, it reduces the spread of germs and shows respect for others around them. It also helps create a more professional and positive environment where people feel comfortable being present.
+
+Things like loud conversations, strong smells, or distracting behavior can make it hard for others to focus or feel comfortable. These distractions can interrupt learning or work and may cause stress or frustration for people who are trying to concentrate. Being aware of how our actions affect others helps create a better shared space.
+
+Some reasonable expectations for professional behavior in shared spaces include practicing good hygiene, using respectful language, and keeping an appropriate volume when speaking. It is also important to respect personal space, control emotions, and be aware of your surroundings. These behaviors help maintain a respectful, focused, and welcoming environment for everyone.
+
  
