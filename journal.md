@@ -148,4 +148,14 @@ Things like loud conversations, strong smells, or distracting behavior can make 
 
 Some reasonable expectations for professional behavior in shared spaces include practicing good hygiene, using respectful language, and keeping an appropriate volume when speaking. It is also important to respect personal space, control emotions, and be aware of your surroundings. These behaviors help maintain a respectful, focused, and welcoming environment for everyone.
 
- 
+# february 10, 2026
+
+1. Do you enjoy football? Why or why not?
+Yes, I enjoy football because it is exciting and competitive. I like watching how teams work together and how every play can change the game.
+
+2. Did you watch Super Bowl LX?
+Yes, I watched Super Bowl LX.
+
+3. If you watched, what was your opinion?
+I thought the Super Bowl was entertaining. The game was intense, and the commercials and halftime show made it more fun to watch.
+
