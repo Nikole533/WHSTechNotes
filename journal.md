@@ -159,3 +159,25 @@ Yes, I watched Super Bowl LX.
 3. If you watched, what was your opinion?
 I thought the Super Bowl was entertaining. The game was intense, and the commercials and halftime show made it more fun to watch.
 
+
+# February 23, 2026
+
+
+
+The 2026 Winter Olympics, held in Italy from February 6–22, 2026, used advanced technology to improve fairness, safety, and athletic performance.
+
+Claim
+
+I believe the most important technology used in the 2026 Winter Olympics was motion tracking systems because they had the biggest impact on fairness in judged sports.
+
+Evidence
+
+This technology was used when athletes competed in figure skating and snowboarding events. Motion tracking cameras followed the athletes’ body movements during jumps and spins to measure things like rotation speed, height, landing angle, and balance. Judges could use this data along with instant replay to see whether a jump was fully completed or if a landing was unstable.
+
+Reasoning
+
+This affected the competition because it made scoring more accurate and less based on opinion. In the past, judges sometimes had to rely only on what they saw in real time, which could lead to mistakes or disagreements. With motion tracking, the data helped judges make fair decisions based on actual performance. However, one concern is that too much technology might take away from the human judgment aspect of sports like figure skating, where artistic performance also matters.
+
+Extension 
+
+There should be some limits on how much technology athletes are allowed to use in Olympic competition. While technology can improve fairness and safety, too much of it—like advanced performance-enhancing equipment—could give some athletes an unfair advantage if they have better access to expensive tools.
