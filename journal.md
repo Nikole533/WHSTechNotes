@@ -195,17 +195,17 @@ Job #1
 Company: USAA
 Job Title: Mid Level Software Engineer – Oracle Cloud Apps
 Education Required:
-	•	Bachelor’s degree (or 4 additional years of experience in lieu of a degree).  ￼
+	•	Bachelor’s degree (or 4 additional years of experience in lieu of a degree).  
 Experience Required:
-	•	At least 4 years of software development experience.  ￼
-	•	2 years experience in delivering technology solutions across software lifecycle phases.  ￼
+	•	At least 4 years of software development experience.  
+	•	2 years experience in delivering technology solutions across software lifecycle phases.  
 Skills / Tools / Languages:
-	•	Experience with programming languages such as Java, JavaScript, HTML/CSS, SQL, Python, C++ (basic understanding).  ￼
-	•	Knowledge of cloud technologies and troubleshooting production issues.  ￼
+	•	Experience with programming languages such as Java, JavaScript, HTML/CSS, SQL, Python, C++ (basic understanding).  
+	•	Knowledge of cloud technologies and troubleshooting production issues.  
 Certifications (if any):
-	•	Approved coding bootcamp certification (like CodeUp, Galvanize, etc.) may be accepted instead of a degree.  ￼
+	•	Approved coding bootcamp certification (like CodeUp, Galvanize, etc.) may be accepted instead of a degree.  
 What the job does (1–2 sentences):
-This role builds, tests, and improves software systems, solves technical problems, and works through the full software development lifecycle to deliver and support technology solutions used by company teams.  ￼
+This role builds, tests, and improves software systems, solves technical problems, and works through the full software development lifecycle to deliver and support technology solutions used by company teams.  
 
 ⸻
 
@@ -214,18 +214,18 @@ Job #2
 Company: Booz Allen Hamilton
 Job Title: Data Analyst
 Education Required:
-	•	Bachelor’s degree in Data Science or related field.  ￼
+	•	Bachelor’s degree in Data Science or related field.  
 Experience Required:
-	•	2+ years of experience in data analysis or data science.  ￼
-	•	2+ years developing data visualizations.  ￼
+	•	2+ years of experience in data analysis or data science.  
+	•	2+ years developing data visualizations.  
 Skills / Tools / Languages:
-	•	Experience with Tableau or Power BI for data visualization.  ￼
-	•	Experience with R, Python, SQL, NoSQL for data algorithm development.  ￼
-	•	Strong data interpretation and storytelling skills.  ￼
+	•	Experience with Tableau or Power BI for data visualization.  
+	•	Experience with R, Python, SQL, NoSQL for data algorithm development.  
+	•	Strong data interpretation and storytelling skills.  
 Certifications (if any):
-	•	(Not required, but beneficial) Experience with machine learning and automation techniques.  ￼
+	•	(Not required, but beneficial) Experience with machine learning and automation techniques.  
 What the job does (1–2 sentences):
-You’ll analyze large datasets to extract insights, build visual data reports, and help stakeholders understand trends that support decision-making.  ￼
+You’ll analyze large datasets to extract insights, build visual data reports, and help stakeholders understand trends that support decision-making.  
 
 ⸻
 
@@ -233,7 +233,7 @@ Part C — C.E.R. Paragraph
 
 Claim: I would prefer the Data Analyst job at Booz Allen Hamilton because it focuses on working directly with data and visualization, which aligns with the type of work I enjoy.
 
-Evidence: This job requires 2+ years of experience building visualizations in Tableau or Power BI and analyzing data using Python and SQL, which means you get to solve real problems and communicate insights to others. It also requires a bachelor’s degree in Data Science or similar, showing it values education related to the field.  ￼
+Evidence: This job requires 2+ years of experience building visualizations in Tableau or Power BI and analyzing data using Python and SQL, which means you get to solve real problems and communicate insights to others. It also requires a bachelor’s degree in Data Science or similar, showing it values education related to the field.  
 
 Reasoning: I like working with data and turning complex information into easy-to-understand visuals, and these are skills I’m learning in my math and computer classes. I plan to take more coding and data courses in high school, so developing strong skills with tools like Python and Power BI will prepare me well for this career path in the future.
 
