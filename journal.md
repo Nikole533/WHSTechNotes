@@ -238,3 +238,42 @@ Evidence: This job requires 2+ years of experience building visualizations in Ta
 Reasoning: I like working with data and turning complex information into easy-to-understand visuals, and these are skills I’m learning in my math and computer classes. I plan to take more coding and data courses in high school, so developing strong skills with tools like Python and Power BI will prepare me well for this career path in the future.
 
 ⸻
+# march 23,2026
+
+• How I chose my bracket & how it’s performing
+I built my bracket using a mix of basic data and intuition. I looked at team rankings, win-loss records, and a few expert predictions, but I also relied on gut feeling for some matchups—especially potential upsets. For example, I tended to favor higher seeds but picked a few lower-seeded teams that had strong recent performance. So far, my bracket is doing okay, but like most people, I’ve already lost several picks due to unexpected upsets in the first weekend.
+
+⸻
+
+• Surprising results from the first weekend
+The biggest surprises were the upsets where lower-seeded teams beat higher-seeded ones. These were unexpected because higher seeds are generally stronger on paper, but factors like momentum, defense, or shooting performance can change everything in a single game. March Madness is known for its unpredictability, and these early upsets are a big reason why perfect brackets almost never happen.
+
+⸻
+
+• How using data could improve predictions
+Using more detailed data—like offensive/defensive efficiency, strength of schedule, and NET rankings—could improve predictions by giving a deeper understanding of how good teams actually are. For example, a lower-seeded team might have strong advanced stats that suggest they’re better than their seed. Data helps reduce reliance on guesswork and highlights trends that aren’t obvious from just wins and losses.
+
+⸻
+
+• How a computer program could do better
+A computer program could analyze huge amounts of data quickly and objectively. It could:
+	•	Compare team statistics across many categories
+	•	Identify patterns from past tournaments
+	•	Simulate games thousands of times to estimate probabilities
+
+Unlike humans, it wouldn’t be biased by favorite teams or popular opinions. This allows it to make more consistent, data-driven predictions, which are usually more accurate over time.
+
+⸻
+
+• Jobs that work with sports data
+Several careers involve analyzing sports data, including:
+	•	Data analysts who study performance trends
+	•	Sports statisticians who track and interpret game data
+	•	Data scientists who build predictive models
+	•	Software engineers who create analytics tools or simulations
+	•	Sports analytics consultants who help teams make decisions
+
+These roles combine programming, statistics, and sports knowledge to improve performance and predictions.
+
+⸻
+
