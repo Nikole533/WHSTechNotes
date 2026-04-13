@@ -274,8 +274,12 @@ Several careers involve analyzing sports data, including:
 	•	Sports analytics consultants who help teams make decisions
 
 These roles combine programming, statistics, and sports knowledge to improve performance and predictions.
+# march 30, 2026
 
-⸻
+
+An upset happens because games are influenced by more than just stats and rankings. For example, in March Madness, a lower-seeded team can win if they have better momentum or confidence during that specific game. One real example is when a lower seed beats a top seed because the stronger team underestimates them or feels more pressure. Data can’t always predict things like emotions, teamwork, or sudden injuries. Even if a team has better stats, they can still lose if they have a bad performance that day. If I were building a program, it would struggle to account for things like pressure and team chemistry. To improve it, I would include more real-time data and maybe patterns about how teams perform under stress, but there will always be some uncertainty.
+
+
 
 # april 9, 2026
 
