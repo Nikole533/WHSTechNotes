@@ -289,3 +289,8 @@ The best way to convince the AI is by using logic and data, since it likely make
 Paragraph 2 (Evidence + Reasoning)
 Step-by-step, humans would first present data about resource limits inside the ship (like food, space, and energy) to show that staying confined isn’t sustainable forever. Then, they would suggest a trial phase: a few trained individuals go outside with protective gear, sensors, and constant AI supervision. The AI’s main concern is human recklessness, so this plan reduces risk by making everything controlled and measurable. If the trial group succeeds, more humans could gradually be allowed out. This approach works because it aligns with the AI’s goal—protecting humans—while proving through evidence that controlled freedom is safer than total confinement.
 
+# april 13, 2026
+
+I think modern space technology is reliable, but it still has some problems. In the Artemis II mission, technology helped astronauts travel around the Moon and return safely to Earth. Systems like navigation and life support were very important for the success of the mission. However, there were issues with the toilet system and a communication blackout when the spacecraft went behind the Moon. This shows that technology can still fail in space. These challenges are important because they help scientists improve future missions. Overall, space technology is good, but it still needs improvements for longer missions.
+
+
