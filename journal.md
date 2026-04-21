@@ -293,4 +293,14 @@ Step-by-step, humans would first present data about resource limits inside the s
 
 I think modern space technology is reliable, but it still has some problems. In the Artemis II mission, technology helped astronauts travel around the Moon and return safely to Earth. Systems like navigation and life support were very important for the success of the mission. However, there were issues with the toilet system and a communication blackout when the spacecraft went behind the Moon. This shows that technology can still fail in space. These challenges are important because they help scientists improve future missions. Overall, space technology is good, but it still needs improvements for longer missions.
 
+# april 20, 2026
 
+
+Claim:
+AI changes how people experience and trust music and media because it can create content that feels real but isn’t made by humans.
+
+Evidence:
+For example, AI can make songs that sound like real artists and videos that look true even if they are fake. On social media, AI-generated content can spread quickly and influence people’s opinions.
+
+Reasoning:
+This shows that AI can affect people the same way human content does, but it can also make it harder to know what is real. I think it does matter if content is made by a human or AI because humans have real emotions and experiences behind their work. However, AI can still be useful and creative if used correctly. There should be limits on AI to prevent misinformation and protect trust in media.
