@@ -308,3 +308,12 @@ This shows that AI can affect people the same way human content does, but it can
 # April 27, 2026
 
 First, humans would present the AI with data from simulations proving that limited exposure reduces risk over time. Next, they would suggest step-by-step testing, starting with short, monitored missions outside the ship. The AI’s main concern is recklessness, so humans would address this by wearing protective gear, following strict rules, and allowing the AI to track every movement. If any risk appears, the AI could immediately stop the experiment. This plan works because it reduces uncertainty and builds trust through evidence. Over time, the AI would see that humans can act responsibly, making it logical to grant them more freedom.
+
+
+# may 6,2026
+
+Claim: I think I am helping train AI without even noticing it when I use apps every day.
+
+Evidence: For example, when I use TikTok or Instagram, they see what videos I like, which ones I watch longer, or skip fast, and that helps them know what to show me. Also when I search on Google or ask things in ChatGPT, that info can be used to make better answers. Even when I click “I am not a robot” or pick images, I am giving info about how humans think.
+
+Reasoning: This shows I am not just a user, I am also part of how AI gets trained because my actions give real data. Companies use that so AI can get smarter and understand people better. Now I think a little more about what I do online, because even if it seems normal, I am still helping AI improve.
