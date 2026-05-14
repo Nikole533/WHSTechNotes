@@ -317,3 +317,8 @@ Claim: I think I am helping train AI without even noticing it when I use apps ev
 Evidence: For example, when I use TikTok or Instagram, they see what videos I like, which ones I watch longer, or skip fast, and that helps them know what to show me. Also when I search on Google or ask things in ChatGPT, that info can be used to make better answers. Even when I click “I am not a robot” or pick images, I am giving info about how humans think.
 
 Reasoning: This shows I am not just a user, I am also part of how AI gets trained because my actions give real data. Companies use that so AI can get smarter and understand people better. Now I think a little more about what I do online, because even if it seems normal, I am still helping AI improve.
+
+
+# may 11, 2026
+
+I grew in confidence this school year. At the beginning of the year, I was shy and nervous to speak in class or ask questions. Over time, my teachers and friends helped me feel more comfortable and supported. One example of this change was when I gave a class presentation without being scared. I also started participating more in group activities and discussions. Now I feel more confident in myself and my abilities than I did at the start of the year. 
