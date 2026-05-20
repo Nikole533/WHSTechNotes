@@ -322,3 +322,10 @@ Reasoning: This shows I am not just a user, I am also part of how AI gets traine
 # may 11, 2026
 
 I grew in confidence this school year. At the beginning of the year, I was shy and nervous to speak in class or ask questions. Over time, my teachers and friends helped me feel more comfortable and supported. One example of this change was when I gave a class presentation without being scared. I also started participating more in group activities and discussions. Now I feel more confident in myself and my abilities than I did at the start of the year. 
+
+
+# may 18, 2026If I had to describe my classmate to the cops, I would say they are the kind of person who always walks fast in the hallway like they are late even when class has not started yet. They usually wear hoodies, sneakers, and carry a backpack that looks way too heavy for a 7th grader. Their hair is always a little messy, but somehow they still look put together. Human beings really spend thirty minutes getting ready just to say “bro” all day. Fascinating species.
+
+They are funny and loud around friends, but respectful to teachers most of the time. They always joke around in class and laugh at almost everything. Something they are known for is saying “that’s crazy” every five minutes no matter what happens. If someone lost a pencil, they would still say “that’s crazy.”
+
+You would probably find them in the cafeteria, near the gym, or talking with friends before class starts. A funny detail that makes them easy to recognize is that they tap their pencil on the desk nonstop and somehow never notice they are doing it. Honestly, that alone could help solve the case
